@@ -8,4 +8,4 @@ draft: false
 
 ![](/images/avatar/2taychum.png)
 
-![](/images/docs/haicham3.png)
+![](/asset/images/aaa.png)
