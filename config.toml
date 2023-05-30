@@ -1,4 +1,7 @@
-baseURL = 'https://thanhlong99x.github.io/ntl2/'
+baseURL = 'https://docs.darkstar.tokyo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
+
+[params]
+    imageUrl = "https://docs.darkstar.tokyo"
