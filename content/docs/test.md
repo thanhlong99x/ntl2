@@ -6,4 +6,4 @@ draft: false
 
 ## trang dau tien
 
-![](/avatar/2taychum.png)
+![](/images/avatar/2taychum.png)

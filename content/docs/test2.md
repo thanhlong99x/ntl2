@@ -6,4 +6,4 @@ draft: false
 
 ## trang thu 2
 
-![](/avatar/aaa.png)
+![](/images/avatar/aaa.png)
