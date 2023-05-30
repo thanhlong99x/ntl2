@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My New Hugo Site</title>
-    <link>/docs/</link>
+    <link>https://thanhlong99x.github.io/ntl2/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2023 14:58:38 +0700</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 14:58:38 +0700</lastBuildDate><atom:link href="https://thanhlong99x.github.io/ntl2/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh really</title>
-      <link>/docs/test/</link>
+      <link>https://thanhlong99x.github.io/ntl2/docs/test/</link>
       <pubDate>Tue, 30 May 2023 14:58:38 +0700</pubDate>
       
-      <guid>/docs/test/</guid>
+      <guid>https://thanhlong99x.github.io/ntl2/docs/test/</guid>
       <description>trang dau tien </description>
     </item>
     
     <item>
       <title>trang 2</title>
-      <link>/docs/test2/</link>
+      <link>https://thanhlong99x.github.io/ntl2/docs/test2/</link>
       <pubDate>Tue, 30 May 2023 14:58:38 +0700</pubDate>
       
-      <guid>/docs/test2/</guid>
+      <guid>https://thanhlong99x.github.io/ntl2/docs/test2/</guid>
       <description>trang thu 2 </description>
     </item>
     
